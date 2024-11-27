@@ -1,4 +1,4 @@
-# Data Value in Distribution System Operations
+# Analysis of Data Value in Stochastic Optimal Power Flow for Distribution Systems
 Code and data to replicate the results of the paper [Analysis of Data Value in Stochastic Optimal
 Power Flow for Distribution Systems](https://arxiv.org/pdf/2406.13148).
 
